@@ -1,6 +1,7 @@
 # flutter_calculator_app
 
-A new Flutter project.
+### Simple calculator application (Only UI)
+<img width="200" alt="screenshot" src="assets/calc_s.png">
 
 ## Getting Started
 
